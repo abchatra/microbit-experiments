@@ -5,7 +5,7 @@ Once your CSV file is created, it is pretty simple to open it up with Microsoft 
 The process involves 2 parts, the script which runs on both the micro:bits and the Python script running on the logging computer which reads the serial data from the micro:bit over USB.    
 
 ## Micro:bit script
-The script that runs on both of the BBC micro:bits is written using the [Microsoft PXT platform](https://pxt.io/). The code in Typescript is included, or you can easily just [fork the script](https://m.pxt.io/vxdmdu).   
+The script that runs on both of the BBC micro:bits is written using the [Microsoft PXT platform](https://pxt.io/). The code in Typescript is included, or you can easily just [fork the script](https://makecode.microbit.org/_UK9M5hWfpg70).   
 If you want to log something different other than the accelerometer values, simply change the input block in the ```send value``` block.
     
 ## Python logging script   
